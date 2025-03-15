@@ -14,10 +14,6 @@ def main():
     print ("Screen width: 1280")
     print ("Screen height: 720")
 
-def main():
-    print ("Starting Asteroids!")
-
-
 
 
 
